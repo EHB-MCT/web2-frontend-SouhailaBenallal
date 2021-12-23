@@ -1,0 +1,25 @@
+{
+  "name": "web2-frontend-souhailabenallal",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "doc": "doc"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EHB-MCT/web2-frontend-SouhailaBenallal.git"
+  },
+  "author": "Souhaila && Mike",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EHB-MCT/web2-frontend-SouhailaBenallal/issues"
+  },
+  "homepage": "https://github.com/EHB-MCT/web2-frontend-SouhailaBenallal#readme",
+  "devDependencies": {
+    "webpack": "^5.65.0"
+  }
+}
