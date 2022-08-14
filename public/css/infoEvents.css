@@ -1,0 +1,52 @@
+#infoEvents-container{
+    display: flex;
+    align-items: flex-start;
+    justify-content: space-between;
+    padding: 115px
+}
+
+#infoEvents-container .infoEvents{
+    width: 60%
+}
+
+#infoEvents-container .infoEvents .infoEventsDes{
+    padding-bottom: 60px;
+}
+
+#infoEvents-container .infoEvents .infoEventsDes img {
+    width: 100%;
+    border-radius: 5px;
+}
+#infoEvents-container .infoEvents .infoEventsDes h3 {
+    padding: 15px 0 10px 0;
+    color: #29303B;
+}
+
+#infoEvents-container .infoEvents .infoEventsDes  p {
+    color: black;
+    padding-bottom: 20px;
+    text-align: justify;
+    font-size: 0.9rem;
+}
+
+#infoEvents-container .infoEvents .infoEventsDes  a {
+    text-decoration: none;
+    font-size: 0.9rem;
+    padding: 13px 35px;
+    background: #fff;
+    border-radius: 5px;
+    font-weight: 600;
+    transition: 0.3s ease;
+}
+#infoEvents-container .infoEvents .infoEventsDes  a.backbtn {
+    text-decoration: none;
+    font-size: 0.9rem;
+    color: #fff;
+    background: rgb(21, 21, 100);
+}
+.uniName{
+    font-size: 2.2rem;
+    font-weight: 600;
+    color:rgb(21, 21, 100);
+    margin-top: 10px;
+}
