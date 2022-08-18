@@ -15,8 +15,14 @@ Nav
 https://www.youtube.com/watch?v=x2hdO15luS0
 https://www.youtube.com/watch?v=0ChpbdflTMY
 
+Fetch Data
+
+https://developer.mozilla.org/fr/docs/Web/API/Document/querySelector
+
+
 Search
 https://www.youtube.com/watch?v=FVH-tXVRErg
+https://www.javascripttutorial.net/javascript-fetch-api/
 
 Images
 Photo de Pavel Danilyuk: https://www.pexels.com/fr-fr/photo/bras-medecin-malade-soins-de-sante-6753446/
@@ -33,5 +39,6 @@ https://www.templatemonster.com/website-templates/responsive-website-template-59
 XD
 https://xd.adobe.com/view/0726c5c3-8af5-4ff9-9574-c83d6392c2ce-5275/
 
+Design tools and Colors see in milestone 1
 ## Sources School
 Mike Derycke (WEB2)
