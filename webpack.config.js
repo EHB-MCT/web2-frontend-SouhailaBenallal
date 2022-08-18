@@ -5,7 +5,7 @@ module.exports = {
     entry: {
         universities: './docs/universities.js',
         events: './docs/events.js',
-        login: './docs/login.js'
+        login: './src/login.js'
     },
     output: {
         path: path.resolve(__dirname, 'public/js'),
