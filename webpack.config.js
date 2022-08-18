@@ -3,9 +3,9 @@ const webpack = require('webpack');
 
 module.exports = {
     entry: {
-        universities: './src/universities.js',
-        events: './src/events.js',
-        login: './src/login.js'
+        universities: './docs/universities.js',
+        events: './docs/events.js',
+        login: './docs/login.js'
     },
     output: {
         path: path.resolve(__dirname, 'public/js'),
