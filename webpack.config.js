@@ -4,7 +4,7 @@ const webpack = require('webpack');
 module.exports = {
     entry: {
         universities: './docs/universities.js',
-        events: './docs/events.js',
+        events: './src/events.js',
         login: './src/login.js'
     },
     output: {
